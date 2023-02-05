@@ -16,4 +16,4 @@ message_p = int(input("Enter the message P: "))
 
 message_q = int(input("Enter the message Q: "))
 
-print("The minimum bits which has to be flipped is:",count_bits_flipped(message_p, message_q))
+print(" The minimum bits which has to be flipped is:",count_bits_flipped(message_p, message_q))
